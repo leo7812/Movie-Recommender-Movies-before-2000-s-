@@ -68,6 +68,11 @@ This will open the app in your web browser.
 
 -----
 <img width="3272" height="1836" alt="image" src="https://github.com/user-attachments/assets/1b6184a0-7c8e-4cc1-9279-a17e652af40c" />
+----
+Results and Inquiries:
+<img width="708" height="468" alt="image" src="https://github.com/user-attachments/assets/67a0f2db-e60a-4aae-af99-bfc67f3b5b92" />
+<img width="1019" height="545" alt="image" src="https://github.com/user-attachments/assets/a79a57ff-6ebe-41e9-8756-6b9fc6510493" />
+<img width="1062" height="622" alt="image" src="https://github.com/user-attachments/assets/d6c2c446-1787-4c27-b0c7-57f920b55149" />
 
 
 ### **Future Work**
@@ -75,3 +80,5 @@ This will open the app in your web browser.
   * **Hybrid Model:** The next step would be to build a hybrid model that intelligently combines the strengths of both content-based and collaborative filtering to improve recommendation quality.
   * **User Profiles:** Implement a feature to allow users to create and save profiles, and use their full viewing history to generate more personalized recommendations.
   * **Scalability:** Adapt the codebase to handle much larger datasets (e.g., using Spark or another distributed computing framework).
+
+
