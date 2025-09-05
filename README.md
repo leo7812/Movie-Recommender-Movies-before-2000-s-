@@ -29,44 +29,6 @@ The two main models implemented are:
 4.  **Deployment:** The final application was containerized and hosted on the Streamlit Community Cloud for public access.
 
 -----
-
-### **How to Run the App Locally**
-
-To run this project on your machine, follow these steps:
-
-**1. Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/Movie-Recommendation-System.git
-cd Movie-Recommendation-System
-```
-
-**2. Create and activate a virtual environment:**
-
-```bash
-python -m venv rec_env
-source rec_env/bin/activate
-```
-
-*(On Windows, use `.\rec_env\Scripts\activate`)*
-
-**3. Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-  * **Troubleshooting:** If you encounter a NumPy 2.x compatibility error, please downgrade to a version 1.x using `pip install numpy==1.26.4` before installing other requirements. This issue is due to library dependencies that have not yet been updated for NumPy 2.x.
-
-**4. Run the Streamlit app:**
-
-```bash
-streamlit run app.py
-```
-
-This will open the app in your web browser.
-
------
 <img width="3272" height="1836" alt="image" src="https://github.com/user-attachments/assets/1b6184a0-7c8e-4cc1-9279-a17e652af40c" />
 ----
 Results and Inquiries:
