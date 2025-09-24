@@ -1,6 +1,6 @@
 ### **Movie Recommender System 🎬**
 
-This project is a movie recommendation system built in Python that demonstrates two key machine learning approaches: **Content-Based Filtering** and **Collaborative Filtering**. The app is hosted using Streamlit to provide an interactive user interface for exploring the models.
+This project is a movie recommendation system built in Python that demonstrates two key machine learning approaches: **Content-Based Filtering** and **Collaborative Filtering** (User Recommendations). The app is hosted using Streamlit to provide an interactive user interface for exploring the models.
 
 #### **Project Overview**
 
